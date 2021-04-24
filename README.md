@@ -15,6 +15,8 @@ Table of Contents
 ## About The Project
 **Important**  This Wordpress Plugin is a Modified based on the original  [Coming Sssoon Page](https://github.com/timcreative/coming-sssoon-wordpress-plugin)  By  [Creative Tim](https://github.com/timcreative).
 
+~Current Version:1.1.2~
+
 **Free Onepage Coming Soon WP Plugin based on Bootstrap 3**. Use MKNH Coming Soon Page to create an Amazing Coming Soon Page for your Site to Work In Confidince on your Site Development/Designing, it is light, easy to use and it helps you be in contact with your audience.
 
 ### Built With
